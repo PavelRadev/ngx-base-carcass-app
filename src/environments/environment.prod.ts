@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  // ToDo: Specify production api url
+  apiUrl: ''
 };

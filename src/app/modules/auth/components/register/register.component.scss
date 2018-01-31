@@ -1,0 +1,22 @@
+.card-content {
+  padding-bottom: 0px;
+}
+
+.card-action {
+  padding-top: 0px;
+}
+
+.full-page-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  background-image: url(../../../../../assets/images/login-background.gif);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
