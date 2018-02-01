@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ng2-scaffolding-app App', () => {
+describe('ngx-base-carcass-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {
